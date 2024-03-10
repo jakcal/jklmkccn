@@ -526,144 +526,731 @@
     "capital": "admin",
     "regions": [
       { "labelFr": "Toute la ville", "labelAr": "جميع الأحياء" },
-      { "labelFr": "Afaq", "labelAr": "أفاق" },
-      { "labelFr": "Agdal", "labelAr": "أكدال" },
-      { "labelFr": "Ain Mezouar", "labelAr": "عين مزوار" },
-      { "labelFr": "Akioud", "labelAr": "أكيود" },
-      { "labelFr": "Allal El Fassi", "labelAr": "علال الفاسي" },
-      { "labelFr": "Amelkis", "labelAr": "ٱملكيس" },
-      { "labelFr": "Amerchich", "labelAr": "ٱمرشيش" },
-      { "labelFr": "Ancienne Médina", "labelAr": "المدينة القديمة" },
-      { "labelFr": "Annakhil", "labelAr": "النخيل" },
-      { "labelFr": "Arset Ben Chebli", "labelAr": "عرصة ابن الشبلي" },
-      { "labelFr": "Arset El Houta", "labelAr": "عرصة الحوتة" },
-      { "labelFr": "Arset El Maach", "labelAr": "عرصة المعاش" },
-      { "labelFr": "Arset Ihiri", "labelAr": "عرصة إهري" },
-      { "labelFr": "Arset Moulay Bouaazza", "labelAr": "عرصة مولاي بوعزة" },
-      { "labelFr": "Arset Moulay Moussa", "labelAr": "عرصة مولاي موسى" },
-      { "labelFr": "Assif", "labelAr": "أسيف" },
-      { "labelFr": "Assouel", "labelAr": "أسول" },
-      { "labelFr": "Autre secteur", "labelAr": "حي آخر" },
+      {
+        "labelFr": "Afaq",
+        "labelAr": "أفاق",
+        "lat": 31.6295007,
+        "lng": -7.9836115
+      },
+      {
+        "labelFr": "Agdal",
+        "labelAr": "أكدال",
+        "lat": 31.5963388,
+        "lng": -8.0360175
+      },
+      {
+        "labelFr": "Ain Mezouar",
+        "labelAr": "عين مزوار",
+        "lat": 31.6252822,
+        "lng": -8.0379153
+      },
+      {
+        "labelFr": "Akioud",
+        "labelAr": "أكيود",
+        "lat": 31.6511475,
+        "lng": -8.036084
+      },
+      {
+        "labelFr": "Allal El Fassi",
+        "labelAr": "علال الفاسي",
+        "lat": 31.6538831,
+        "lng": -8.0049096
+      },
+      {
+        "labelFr": "Amelkis",
+        "labelAr": "ٱملكيس",
+        "lat": 31.6096198,
+        "lng": -7.9396366
+      },
+      {
+        "labelFr": "Amerchich",
+        "labelAr": "ٱمرشيش",
+        "lat": 31.6700284,
+        "lng": -8.0407196
+      },
+      {
+        "labelFr": "Ancienne Médina",
+        "labelAr": "المدينة القديمة",
+        "lat": 31.6505324,
+        "lng": -8.1826821
+      },
+      {
+        "labelFr": "Annakhil",
+        "labelAr": "النخيل",
+        "lat": 31.6273139,
+        "lng": -8.0878553
+      },
+      {
+        "labelFr": "Arset Ben Chebli",
+        "labelAr": "عرصة ابن الشبلي",
+        "lat": 31.6340079,
+        "lng": -7.9993551
+      },
+      {
+        "labelFr": "Arset El Houta",
+        "labelAr": "عرصة الحوتة",
+        "lat": 31.6267458,
+        "lng": -7.9817286
+      },
+      {
+        "labelFr": "Arset El Maach",
+        "labelAr": "عرصة المعاش",
+        "lat": 31.6205814,
+        "lng": -7.9944877
+      },
+      {
+        "labelFr": "Arset Ihiri",
+        "labelAr": "عرصة إهري",
+        "lat": 31.6344849,
+        "lng": -8.0222643
+      },
+      {
+        "labelFr": "Arset Moulay Bouaazza",
+        "labelAr": "عرصة مولاي بوعزة",
+        "lat": 31.6270572,
+        "lng": -7.9869364
+      },
+      {
+        "labelFr": "Arset Moulay Moussa",
+        "labelAr": "عرصة مولاي موسى",
+        "lat": 31.622914,
+        "lng": -7.9932279
+      },
+      {
+        "labelFr": "Assif",
+        "labelAr": "أسيف",
+        "lat": 31.6535456,
+        "lng": -8.0107391
+      },
+      {
+        "labelFr": "Assouel",
+        "labelAr": "أسول",
+        "lat": 31.6364113,
+        "lng": -7.9958977
+      },
+      {
+        "labelFr": "Autre secteur",
+        "labelAr": "حي آخر",
+        "lat": 33.5657588,
+        "lng": -7.5282956
+      },
       {
         "labelFr": "Av Abdelkrim El Khattabi",
-        "labelAr": "شارع عبد الكريم الخطابي"
+        "labelAr": "شارع عبد الكريم الخطابي",
+        "lat": 31.6472794,
+        "lng": -8.0245027
       },
-      { "labelFr": "Av Mohammed V", "labelAr": "شارع محمد الخامس" },
-      { "labelFr": "Av Mohammed VI", "labelAr": "شارع محمد السادس" },
-      { "labelFr": "Azli", "labelAr": "ازلي" },
-      { "labelFr": "Azzouzia", "labelAr": "عزوزية" },
-      { "labelFr": "Bab Atlas", "labelAr": "باب أطلس" },
-      { "labelFr": "Bab Aylan", "labelAr": "باب ايلان" },
-      { "labelFr": "Bab Doukkala", "labelAr": "باب دكالة" },
-      { "labelFr": "Bab El Khemis", "labelAr": "باب الخميس" },
-      { "labelFr": "Bab Ghmat", "labelAr": "باب أغمات" },
-      { "labelFr": "Bab Ighli", "labelAr": "باب إغلي" },
-      { "labelFr": "Bab Lhmar", "labelAr": "باب احمر" },
-      { "labelFr": "Bd Moulay Abdellah", "labelAr": "شارع مولاي عبد الله" },
-      { "labelFr": "Ben Saleh", "labelAr": "بن صالح" },
-      { "labelFr": "Berrima", "labelAr": "بريمة" },
-      { "labelFr": "Bin Lkchali", "labelAr": "بين لكشالي" },
-      { "labelFr": "Bouaakkaz", "labelAr": "بوعكاز" },
-      { "labelFr": "Centre Ville", "labelAr": "وسط المدينة" },
-      { "labelFr": "Daoudiate", "labelAr": "الداوديات" },
-      { "labelFr": "Derb Chtouka", "labelAr": "درب اشتوكة" },
-      { "labelFr": "El Ghoul", "labelAr": "الغول" },
-      { "labelFr": "El Moukef", "labelAr": "الموقف" },
-      { "labelFr": "Es Saada", "labelAr": "السعادة" },
-      { "labelFr": "Essebtiyen", "labelAr": "السبتيين" },
-      { "labelFr": "Fassi", "labelAr": "فاسي" },
-      { "labelFr": "Guéliz", "labelAr": "كليز" },
-      { "labelFr": "Harti", "labelAr": "حارتي" },
-      { "labelFr": "Hay Al Bahja", "labelAr": "حي البهجة" },
-      { "labelFr": "Hay Al Haouz", "labelAr": "حي الحوز" },
-      { "labelFr": "Hay Al Hassani", "labelAr": "حي الحسني" },
-      { "labelFr": "Hay Al Massar", "labelAr": "حي المسار" },
-      { "labelFr": "Hay Andalous", "labelAr": "حي الأندلس" },
-      { "labelFr": "Hay Annahda", "labelAr": "حي النهضة" },
-      { "labelFr": "Hay Charaf", "labelAr": "حي شرف" },
-      { "labelFr": "Hay Izdihar", "labelAr": "حي إزدهار" },
-      { "labelFr": "Hay Lalla Haya", "labelAr": "حي لالة حية" },
-      { "labelFr": "Hay Massira", "labelAr": "حي المسيرة" },
-      { "labelFr": "Hay Targa", "labelAr": "تاركة" },
-      { "labelFr": "Hivernage", "labelAr": "إيفرناج" },
-      { "labelFr": "Hôpital Militaire", "labelAr": "المستشفى العسكري" },
-      { "labelFr": "Inara", "labelAr": "إنارة" },
-      { "labelFr": "Issil", "labelAr": "إسيل" },
-      { "labelFr": "Iziki", "labelAr": "ايزيكي" },
-      { "labelFr": "Jawhar", "labelAr": "جوهر" },
-      { "labelFr": "Jemaa El Fna", "labelAr": "جامع الفنا" },
-      { "labelFr": "Jnan ben chagra", "labelAr": "جنان بن شكرة" },
-      { "labelFr": "Jnane Laafia", "labelAr": "جنان العافية" },
-      { "labelFr": "Kaa El Machraa", "labelAr": "قاع المشرع" },
-      { "labelFr": "Kaat Ben Nahid", "labelAr": "قاعة بن ناهض" },
-      { "labelFr": "Kadissia", "labelAr": "القادسية" },
-      { "labelFr": "Kbour Chou", "labelAr": "قبور الشو" },
-      { "labelFr": "Kechich", "labelAr": "قشيش" },
-      { "labelFr": "Kennaria", "labelAr": "قنارية" },
-      { "labelFr": "Ksibat Nhas", "labelAr": "قصيبة النحاس" },
-      { "labelFr": "Lac Takerkoust", "labelAr": "بحيرة تاكركوست" },
-      { "labelFr": "Les Portes de Marrakech", "labelAr": "ابواب مراكش" },
-      { "labelFr": "M'Hamid", "labelAr": "المحاميد" },
-      { "labelFr": "Mabrouka", "labelAr": "مبروكة" },
-      { "labelFr": "Majorelle", "labelAr": "ماجوريل" },
-      { "labelFr": "Masmoudi", "labelAr": "مصمودي" },
-      { "labelFr": "Massar", "labelAr": "ماسار" },
-      { "labelFr": "Massira", "labelAr": "المسيرة" },
-      { "labelFr": "Massira 1", "labelAr": "المسيرة 1" },
-      { "labelFr": "Massira 2", "labelAr": "المسيرة 2" },
-      { "labelFr": "Massira 3", "labelAr": "المسيرة 3" },
-      { "labelFr": "Michouar", "labelAr": "المشور" },
-      { "labelFr": "Mouassine", "labelAr": "المواسين" },
-      { "labelFr": "Moulay Lyazid", "labelAr": "مولاي اليزيد" },
-      { "labelFr": "Oued Ourika", "labelAr": "واد ٱوريكة" },
-      { "labelFr": "Oued Tensift", "labelAr": "واد تانسيفت" },
-      { "labelFr": "Oulad Said", "labelAr": "أولاد سعيد" },
-      { "labelFr": "Palmeraie", "labelAr": "بالموري" },
-      { "labelFr": "Rahba Kedima", "labelAr": "الرحبة القديمة" },
-      { "labelFr": "Riad Zitoun", "labelAr": "رياض الزيتون" },
-      { "labelFr": "Rmila", "labelAr": "الرميلة" },
-      { "labelFr": "Rouidat", "labelAr": "رويدات" },
+      {
+        "labelFr": "Av Mohammed V",
+        "labelAr": "شارع محمد الخامس",
+        "lat": 31.6310292,
+        "lng": -8.0082882
+      },
+      {
+        "labelFr": "Av Mohammed VI",
+        "labelAr": "شارع محمد السادس",
+        "lat": 31.6093505,
+        "lng": -8.0049503
+      },
+      {
+        "labelFr": "Azli",
+        "labelAr": "ازلي",
+        "lat": 31.6229582,
+        "lng": -8.0712449
+      },
+      {
+        "labelFr": "Azzouzia",
+        "labelAr": "عزوزية",
+        "lat": 31.687513,
+        "lng": -8.0808762
+      },
+      {
+        "labelFr": "Bab Atlas",
+        "labelAr": "باب أطلس",
+        "lat": 31.684192,
+        "lng": -7.9010124
+      },
+      {
+        "labelFr": "Bab Aylan",
+        "labelAr": "باب ايلان",
+        "lat": 31.6306272,
+        "lng": -7.9822299
+      },
+      {
+        "labelFr": "Bab Doukkala",
+        "labelAr": "باب دكالة",
+        "lat": 31.6328409,
+        "lng": -8.000688
+      },
+      {
+        "labelFr": "Bab El Khemis",
+        "labelAr": "باب الخميس",
+        "lat": 31.6360861,
+        "lng": -7.9863405
+      },
+      {
+        "labelFr": "Bab Ghmat",
+        "labelAr": "باب أغمات",
+        "lat": 31.6267958,
+        "lng": -7.9829275
+      },
+      {
+        "labelFr": "Bab Ighli",
+        "labelAr": "باب إغلي",
+        "lat": 31.6095834,
+        "lng": -8.0082984
+      },
+      {
+        "labelFr": "Bab Lhmar",
+        "labelAr": "باب احمر",
+        "lat": 31.6146181,
+        "lng": -7.9807627
+      },
+      {
+        "labelFr": "Bd Moulay Abdellah",
+        "labelAr": "شارع مولاي عبد الله",
+        "lat": 31.638165,
+        "lng": -8.0073395
+      },
+      {
+        "labelFr": "Ben Saleh",
+        "labelAr": "بن صالح",
+        "lat": 31.6286507,
+        "lng": -7.9908316
+      },
+      {
+        "labelFr": "Berrima",
+        "labelAr": "بريمة",
+        "lat": 31.6168421,
+        "lng": -7.9851478
+      },
+      {
+        "labelFr": "Bin Lkchali",
+        "labelAr": "بين لكشالي",
+        "lat": 31.6404012,
+        "lng": -8.0514019
+      },
+      {
+        "labelFr": "Bouaakkaz",
+        "labelAr": "بوعكاز",
+        "lat": 31.5937482,
+        "lng": -8.0170969
+      },
+      {
+        "labelFr": "Centre Ville",
+        "labelAr": "وسط المدينة",
+        "lat": 31.6348079,
+        "lng": -8.1726689
+      },
+      {
+        "labelFr": "Daoudiate",
+        "labelAr": "الداوديات",
+        "lat": 31.649832,
+        "lng": -8.0304713
+      },
+      {
+        "labelFr": "Derb Chtouka",
+        "labelAr": "درب اشتوكة",
+        "lat": 31.6121284,
+        "lng": -7.9897857
+      },
+      {
+        "labelFr": "El Ghoul",
+        "labelAr": "الغول",
+        "lat": 31.6427295,
+        "lng": -8.028592
+      },
+      {
+        "labelFr": "El Moukef",
+        "labelAr": "الموقف",
+        "lat": 31.6344466,
+        "lng": -7.9837212
+      },
+      {
+        "labelFr": "Es Saada",
+        "labelAr": "السعادة",
+        "lat": 31.6749683,
+        "lng": -8.025502
+      },
+      {
+        "labelFr": "Essebtiyen",
+        "labelAr": "السبتيين",
+        "lat": 31.6323657,
+        "lng": -7.9849384
+      },
+      {
+        "labelFr": "Fassi",
+        "labelAr": "فاسي",
+        "lat": 31.6324051,
+        "lng": -8.0029632
+      },
+      {
+        "labelFr": "Guéliz",
+        "labelAr": "كليز",
+        "lat": 31.6322766,
+        "lng": -8.0498475
+      },
+      {
+        "labelFr": "Harti",
+        "labelAr": "حارتي",
+        "lat": 31.6309182,
+        "lng": -8.0106298
+      },
+      {
+        "labelFr": "Hay Al Bahja",
+        "labelAr": "حي البهجة",
+        "lat": 31.6326475,
+        "lng": -8.0525387
+      },
+      {
+        "labelFr": "Hay Al Haouz",
+        "labelAr": "حي الحوز",
+        "lat": 31.6373014,
+        "lng": -8.0576188
+      },
+      {
+        "labelFr": "Hay Al Hassani",
+        "labelAr": "حي الحسني",
+        "lat": 31.6307472,
+        "lng": -8.0519621
+      },
+      {
+        "labelFr": "Hay Al Massar",
+        "labelAr": "حي المسار",
+        "lat": 31.6739902,
+        "lng": -8.0558328
+      },
+      {
+        "labelFr": "Hay Andalous",
+        "labelAr": "حي الأندلس",
+        "lat": 31.6697869,
+        "lng": -8.0047417
+      },
+      {
+        "labelFr": "Hay Annahda",
+        "labelAr": "حي النهضة",
+        "lat": 31.6010275,
+        "lng": -8.0534592
+      },
+      {
+        "labelFr": "Hay Charaf",
+        "labelAr": "حي شرف",
+        "lat": 31.6743816,
+        "lng": -8.0316336
+      },
+      {
+        "labelFr": "Hay Izdihar",
+        "labelAr": "حي إزدهار",
+        "lat": 31.66967,
+        "lng": -8.0306565
+      },
+      {
+        "labelFr": "Hay Lalla Haya",
+        "labelAr": "حي لالة حية",
+        "lat": 31.5722437,
+        "lng": -7.983483
+      },
+      {
+        "labelFr": "Hay Massira",
+        "labelAr": "حي المسيرة",
+        "lat": 31.6365386,
+        "lng": -8.0612695
+      },
+      {
+        "labelFr": "Hay Targa",
+        "labelAr": "تاركة",
+        "lat": 31.6337893,
+        "lng": -8.0560765
+      },
+      {
+        "labelFr": "Hivernage",
+        "labelAr": "إيفرناج",
+        "lat": 31.6221728,
+        "lng": -8.0491931
+      },
+      {
+        "labelFr": "Hôpital Militaire",
+        "labelAr": "المستشفى العسكري",
+        "lat": 31.6264904,
+        "lng": -8.0392376
+      },
+      {
+        "labelFr": "Inara",
+        "labelAr": "إنارة",
+        "lat": 31.6386676,
+        "lng": -8.0627329
+      },
+      {
+        "labelFr": "Issil",
+        "labelAr": "إسيل",
+        "lat": 31.6596917,
+        "lng": -8.0158782
+      },
+      {
+        "labelFr": "Iziki",
+        "labelAr": "ايزيكي",
+        "lat": 31.625691,
+        "lng": -8.069061
+      },
+      {
+        "labelFr": "Jawhar",
+        "labelAr": "جوهر",
+        "lat": 31.6469058,
+        "lng": -8.0488588
+      },
+      {
+        "labelFr": "Jemaa El Fna",
+        "labelAr": "جامع الفنا",
+        "lat": 31.6257815,
+        "lng": -7.9934459
+      },
+      {
+        "labelFr": "Jnan ben chagra",
+        "labelAr": "جنان بن شكرة",
+        "lat": 31.6223888,
+        "lng": -7.9838735
+      },
+      {
+        "labelFr": "Jnane Laafia",
+        "labelAr": "جنان العافية",
+        "lat": 31.6173772,
+        "lng": -7.9815274
+      },
+      {
+        "labelFr": "Kaa El Machraa",
+        "labelAr": "قاع المشرع",
+        "lat": 31.6437803,
+        "lng": -7.9908769
+      },
+      {
+        "labelFr": "Kaat Ben Nahid",
+        "labelAr": "قاعة بن ناهض",
+        "lat": 31.6306362,
+        "lng": -8.0027053
+      },
+      {
+        "labelFr": "Kadissia",
+        "labelAr": "القادسية",
+        "lat": 31.6221769,
+        "lng": -8.0080478
+      },
+      {
+        "labelFr": "Kbour Chou",
+        "labelAr": "قبور الشو",
+        "lat": 31.6409415,
+        "lng": -7.9976821
+      },
+      {
+        "labelFr": "Kechich",
+        "labelAr": "قشيش",
+        "lat": 31.6379954,
+        "lng": -7.9854961
+      },
+      {
+        "labelFr": "Kennaria",
+        "labelAr": "قنارية",
+        "lat": 31.6263348,
+        "lng": -7.9947762
+      },
+      {
+        "labelFr": "Ksibat Nhas",
+        "labelAr": "قصيبة النحاس",
+        "lat": 31.6182059,
+        "lng": -7.9901427
+      },
+      {
+        "labelFr": "Lac Takerkoust",
+        "labelAr": "بحيرة تاكركوست",
+        "lat": 31.3490194,
+        "lng": -8.1456706
+      },
+      {
+        "labelFr": "Les Portes de Marrakech",
+        "labelAr": "ابواب مراكش",
+        "lat": 31.6336336,
+        "lng": -8.0866778
+      },
+      {
+        "labelFr": "M'Hamid",
+        "labelAr": "المحاميد",
+        "lat": 31.586348,
+        "lng": -8.0765414
+      },
+      {
+        "labelFr": "Mabrouka",
+        "labelAr": "مبروكة",
+        "lat": 31.6595778,
+        "lng": -8.0346698
+      },
+      {
+        "labelFr": "Majorelle",
+        "labelAr": "ماجوريل",
+        "lat": 31.6412076,
+        "lng": -8.0058146
+      },
+      {
+        "labelFr": "Masmoudi",
+        "labelAr": "مصمودي",
+        "lat": 31.6570518,
+        "lng": -8.0676986
+      },
+      {
+        "labelFr": "Massar",
+        "labelAr": "ماسار",
+        "lat": 31.6713887,
+        "lng": -8.053143
+      },
+      {
+        "labelFr": "Massira",
+        "labelAr": "المسيرة",
+        "lat": 31.6386024,
+        "lng": -8.0756273
+      },
+      {
+        "labelFr": "Massira 1",
+        "labelAr": "المسيرة 1",
+        "lat": 31.6331152,
+        "lng": -8.0668698
+      },
+      {
+        "labelFr": "Massira 2",
+        "labelAr": "المسيرة 2",
+        "lat": 31.6334373,
+        "lng": -8.0776228
+      },
+      {
+        "labelFr": "Massira 3",
+        "labelAr": "المسيرة 3",
+        "lat": 31.6439736,
+        "lng": -8.0752296
+      },
+      {
+        "labelFr": "Michouar",
+        "labelAr": "المشور",
+        "lat": 31.5989839,
+        "lng": -8.0300255
+      },
+      {
+        "labelFr": "Mouassine",
+        "labelAr": "المواسين",
+        "lat": 31.6294752,
+        "lng": -7.9942771
+      },
+      {
+        "labelFr": "Moulay Lyazid",
+        "labelAr": "مولاي اليزيد",
+        "lat": 31.6148693,
+        "lng": -7.9944796
+      },
+      {
+        "labelFr": "Oued Ourika",
+        "labelAr": "واد ٱوريكة",
+        "lat": 31.3909633,
+        "lng": -8.0986018
+      },
+      {
+        "labelFr": "Oued Tensift",
+        "labelAr": "واد تانسيفت",
+        "lat": 31.6085876,
+        "lng": -13.0827344
+      },
+      {
+        "labelFr": "Oulad Said",
+        "labelAr": "أولاد سعيد",
+        "lat": 31.5833845,
+        "lng": -8.1738218
+      },
+      {
+        "labelFr": "Palmeraie",
+        "labelAr": "بالموري",
+        "lat": 31.6853155,
+        "lng": -8.0411236
+      },
+      {
+        "labelFr": "Rahba Kedima",
+        "labelAr": "الرحبة القديمة",
+        "lat": 31.6292937,
+        "lng": -7.9967987
+      },
+      {
+        "labelFr": "Riad Zitoun",
+        "labelAr": "رياض الزيتون",
+        "lat": 31.6228746,
+        "lng": -7.9887464
+      },
+      {
+        "labelFr": "Rmila",
+        "labelAr": "الرميلة",
+        "lat": 31.6306551,
+        "lng": -7.9973622
+      },
+      {
+        "labelFr": "Rouidat",
+        "labelAr": "رويدات",
+        "lat": 31.6440733,
+        "lng": -8.0262374
+      },
       {
         "labelFr": "Route d'Agadir - Essaouira",
-        "labelAr": "طريق اكادير-الصويرة"
+        "labelAr": "طريق اكادير-الصويرة",
+        "lat": 31.7480457,
+        "lng": -8.1995261
       },
-      { "labelFr": "Route d'Amezmiz", "labelAr": "طريق أمزميز" },
-      { "labelFr": "Route d'Ourika", "labelAr": "طريق أوريكة" },
-      { "labelFr": "Route de Casablanca", "labelAr": "طريق الدار البيضاء" },
-      { "labelFr": "Route de Fès", "labelAr": "طريق فاس" },
+      {
+        "labelFr": "Route d'Amezmiz",
+        "labelAr": "طريق أمزميز",
+        "lat": 33.6024502,
+        "lng": -7.6411162
+      },
+      {
+        "labelFr": "Route d'Ourika",
+        "labelAr": "طريق أوريكة",
+        "lat": 31.5978699,
+        "lng": -7.9894531
+      },
+      {
+        "labelFr": "Route de Casablanca",
+        "labelAr": "طريق الدار البيضاء",
+        "lat": 31.7700054,
+        "lng": -7.9834191
+      },
+      {
+        "labelFr": "Route de Fès",
+        "labelAr": "طريق فاس",
+        "lat": 31.6475893,
+        "lng": -8.6114657
+      },
       {
         "labelFr": "Route de Lalla Takerkoust",
-        "labelAr": "طريق لالة تاكركوست"
+        "labelAr": "طريق لالة تاكركوست",
+        "lat": 31.3422435,
+        "lng": -8.2471164
       },
-      { "labelFr": "Route de Ouarzazate", "labelAr": "طريق ورزازات" },
-      { "labelFr": "Route de Safi", "labelAr": "طريق آسفي" },
+      {
+        "labelFr": "Route de Ouarzazate",
+        "labelAr": "طريق ورزازات",
+        "lat": 31.6051453,
+        "lng": -7.9322001
+      },
+      {
+        "labelFr": "Route de Safi",
+        "labelAr": "طريق آسفي",
+        "lat": 31.6544357,
+        "lng": -8.3489385
+      },
       {
         "labelFr": "Route de Sidi A. Ghiat",
-        "labelAr": "طريق سيدي عبدالله الغيات"
+        "labelAr": "طريق سيدي عبدالله الغيات",
+        "lat": 31.5686513,
+        "lng": -7.962675
       },
-      { "labelFr": "Route de Tahanaoute", "labelAr": "طريق تاهاناوت" },
-      { "labelFr": "Route de Tamansourt", "labelAr": "طريق تمنصورت" },
-      { "labelFr": "Sakar", "labelAr": "صقر" },
-      { "labelFr": "Semlalia", "labelAr": "السملالية" },
-      { "labelFr": "Sidi Abbad", "labelAr": "سيدي عباد" },
-      { "labelFr": "Sidi Abdellah Ghiat", "labelAr": "سيدي عبدالله الغيات" },
+      {
+        "labelFr": "Route de Tahanaoute",
+        "labelAr": "طريق تاهاناوت",
+        "lat": 31.3569167,
+        "lng": -7.986876
+      },
+      {
+        "labelFr": "Route de Tamansourt",
+        "labelAr": "طريق تمنصورت",
+        "lat": 31.7568982,
+        "lng": -8.1863185
+      },
+      {
+        "labelFr": "Sakar",
+        "labelAr": "صقر",
+        "lat": 31.6613258,
+        "lng": -8.0064798
+      },
+      {
+        "labelFr": "Semlalia",
+        "labelAr": "السملالية",
+        "lat": 31.6443207,
+        "lng": -8.0227018
+      },
+      {
+        "labelFr": "Sidi Abbad",
+        "labelAr": "سيدي عباد",
+        "lat": 31.6536644,
+        "lng": -8.0197299
+      },
+      {
+        "labelFr": "Sidi Abdellah Ghiat",
+        "labelAr": "سيدي عبدالله الغيات",
+        "lat": 31.5230189,
+        "lng": -7.8618122
+      },
       {
         "labelFr": "Sidi Ben Slimane El Jazouli",
-        "labelAr": "سيدي بن سليمان الجزولي"
+        "labelAr": "سيدي بن سليمان الجزولي",
+        "lat": 31.6361987,
+        "lng": -7.994611
       },
-      { "labelFr": "Sidi Bou Amar", "labelAr": "سيدي بوعمار" },
-      { "labelFr": "Sidi Ghanem", "labelAr": "سيدي غانم" },
-      { "labelFr": "Sidi Mansour", "labelAr": "سيدي منصور" },
-      { "labelFr": "Sidi Mimoun", "labelAr": "سيدي ميمون" },
-      { "labelFr": "Sidi Youssef Ben Ali", "labelAr": "سيدي يوسف بن علي" },
-      { "labelFr": "Sofia", "labelAr": "صافية" },
-      { "labelFr": "Targa", "labelAr": "تاركة" },
-      { "labelFr": "Victor Hugo", "labelAr": "فيكطور هيكو" },
-      { "labelFr": "Zaouia Sidi Ghalem", "labelAr": "زاوية سيدي غالم" },
-      { "labelFr": "Zaouiat Lahdar", "labelAr": "زاوية الحضر" },
+      {
+        "labelFr": "Sidi Bou Amar",
+        "labelAr": "سيدي بوعمار",
+        "lat": 31.6334329,
+        "lng": -7.994613
+      },
+      {
+        "labelFr": "Sidi Ghanem",
+        "labelAr": "سيدي غانم",
+        "lat": 31.6714811,
+        "lng": -8.0835913
+      },
+      {
+        "labelFr": "Sidi Mansour",
+        "labelAr": "سيدي منصور",
+        "lat": 31.9336887,
+        "lng": -8.5628147
+      },
+      {
+        "labelFr": "Sidi Mimoun",
+        "labelAr": "سيدي ميمون",
+        "lat": 31.620149,
+        "lng": -7.9980514
+      },
+      {
+        "labelFr": "Sidi Youssef Ben Ali",
+        "labelAr": "سيدي يوسف بن علي",
+        "lat": 31.5893157,
+        "lng": -7.9908437
+      },
+      {
+        "labelFr": "Sofia",
+        "labelAr": "صافية",
+        "lat": 31.6426538,
+        "lng": -8.0589814
+      },
+      {
+        "labelFr": "Targa",
+        "labelAr": "تاركة",
+        "lat": 31.6517835,
+        "lng": -8.1282254
+      },
+      {
+        "labelFr": "Victor Hugo",
+        "labelAr": "فيكطور هيكو",
+        "lat": 31.6406996,
+        "lng": -8.0260221
+      },
+      {
+        "labelFr": "Zaouia Sidi Ghanem",
+        "labelAr": "زاوية سيدي غانم",
+        "lat": 32.6874108,
+        "lng": -8.0361469
+      },
+      {
+        "labelFr": "Zaouiat Lahdar",
+        "labelAr": "زاوية الحضر",
+        "lat": 31.6333196,
+        "lng": -7.9893656
+      },
       {
         "labelFr": "Zone Industrielle Sidi Ghanem",
-        "labelAr": "المنطقة الصناعية سيدي غانم"
+        "labelAr": "المنطقة الصناعية سيدي غانم",
+        "lat": 31.6707664,
+        "lng": -8.0614331
       }
     ]
   },
@@ -767,37 +1354,192 @@
     "capital": "primary",
     "regions": [
       { "labelFr": "Toute la ville", "labelAr": "جميع الأحياء" },
-      { "labelFr": "Aakkari", "labelAr": "العكاري" },
-      { "labelFr": "Abi Ragrag", "labelAr": "حي ابي رقراق" },
-      { "labelFr": "Agdal", "labelAr": "أكدال" },
-      { "labelFr": "Al Irfane", "labelAr": "العرفان" },
-      { "labelFr": "Autre secteur", "labelAr": "حي آخر" },
-      { "labelFr": "Aviation", "labelAr": "الطيران" },
-      { "labelFr": "Aviation - Mabella", "labelAr": "حي الطيران - مابيلا" },
-      { "labelFr": "Diour Jamaa", "labelAr": "ديور الجامع" },
-      { "labelFr": "Douar el Hajja", "labelAr": "دوار الحاجة" },
-      { "labelFr": "El Youssoufia", "labelAr": "اليوسفية" },
-      { "labelFr": "Guich Oudaya", "labelAr": "كيش الوداية" },
-      { "labelFr": "Hassan", "labelAr": "حسان" },
-      { "labelFr": "Haut Agdal", "labelAr": "اكدال العالي" },
-      { "labelFr": "Hay Al Farah", "labelAr": "حي الفرح" },
-      { "labelFr": "Hay Arrachad", "labelAr": "حي الرشاد" },
-      { "labelFr": "Hay el Fath", "labelAr": "حي الفتح" },
-      { "labelFr": "Hay Nahda", "labelAr": "حي النهضة" },
-      { "labelFr": "Hay Riad", "labelAr": "حي الرياض" },
-      { "labelFr": "Les Ambassadeurs", "labelAr": "السفراء" },
-      { "labelFr": "Les Orangers", "labelAr": "حي الليمون" },
-      { "labelFr": "Les Oudayas", "labelAr": "الوداية" },
-      { "labelFr": "Mabella", "labelAr": "مابيلا" },
-      { "labelFr": "Massira", "labelAr": "المسيرة" },
-      { "labelFr": "Mechouar", "labelAr": "المشور" },
-      { "labelFr": "Médina de Rabat", "labelAr": "المدينة" },
-      { "labelFr": "Quartier de l'Océan", "labelAr": "حي المحيط" },
-      { "labelFr": "Riyad", "labelAr": "الرياض" },
-      { "labelFr": "Riyad Extension", "labelAr": "توسعة الرياض" },
-      { "labelFr": "Souissi", "labelAr": "السويسي" },
-      { "labelFr": "Taqaddoum", "labelAr": "التقدم" },
-      { "labelFr": "Yacoub El Mansour", "labelAr": "يعقوب المنصور" }
+      {
+        "labelFr": "Aakkari",
+        "labelAr": "العكاري",
+        "lat": 34.0078722,
+        "lng": -6.8710243
+      },
+      {
+        "labelFr": "Abi Ragrag",
+        "labelAr": "حي ابي رقراق",
+        "lat": 34.0412479,
+        "lng": -7.9552322
+      },
+      {
+        "labelFr": "Agdal",
+        "labelAr": "أكدال",
+        "lat": 33.9991925,
+        "lng": -6.8832987
+      },
+      {
+        "labelFr": "Al Irfane",
+        "labelAr": "العرفان",
+        "lat": 33.9794714,
+        "lng": -6.8864362
+      },
+      {
+        "labelFr": "Autre secteur",
+        "labelAr": "حي آخر",
+        "lat": 34.0209,
+        "lng": -6.8416
+      },
+      {
+        "labelFr": "Aviation",
+        "labelAr": "الطيران",
+        "lat": 33.9795392,
+        "lng": -6.8864363
+      },
+      {
+        "labelFr": "Aviation - Mabella",
+        "labelAr": "حي الطيران - مابيلا",
+        "lat": 33.9907243,
+        "lng": -6.8406831
+      },
+      {
+        "labelFr": "Diour Jamaa",
+        "labelAr": "ديور الجامع",
+        "lat": 34.0164345,
+        "lng": -6.8517946
+      },
+      {
+        "labelFr": "Douar el Hajja",
+        "labelAr": "دوار الحاجة",
+        "lat": 33.9877864,
+        "lng": -6.8179639
+      },
+      {
+        "labelFr": "El Youssoufia",
+        "labelAr": "اليوسفية",
+        "lat": 33.9979239,
+        "lng": -6.8251367
+      },
+      {
+        "labelFr": "Guich Oudaya",
+        "labelAr": "كيش الوداية",
+        "lat": 33.9394774,
+        "lng": -6.8923827
+      },
+      {
+        "labelFr": "Hassan",
+        "labelAr": "حسان",
+        "lat": 33.9588083,
+        "lng": -6.8674957
+      },
+      {
+        "labelFr": "Haut Agdal",
+        "labelAr": "اكدال العالي",
+        "lat": 33.9996501,
+        "lng": -6.8669894
+      },
+      {
+        "labelFr": "Hay Al Farah",
+        "labelAr": "حي الفرح",
+        "lat": 33.5707508,
+        "lng": -7.6110709
+      },
+      {
+        "labelFr": "Hay Arrachad",
+        "labelAr": "حي الرشاد",
+        "lat": 33.9976333,
+        "lng": -6.7452871
+      },
+      {
+        "labelFr": "Hay el Fath",
+        "labelAr": "حي الفتح",
+        "lat": 33.9899991,
+        "lng": -6.9123232
+      },
+      {
+        "labelFr": "Hay Nahda",
+        "labelAr": "حي النهضة",
+        "lat": 33.9695673,
+        "lng": -6.8389814
+      },
+      {
+        "labelFr": "Hay Riad",
+        "labelAr": "حي الرياض",
+        "lat": 33.9591446,
+        "lng": -6.8940929
+      },
+      {
+        "labelFr": "Les Ambassadeurs",
+        "labelAr": "السفراء",
+        "lat": 33.9592934,
+        "lng": -6.9558958
+      },
+      {
+        "labelFr": "Les Orangers",
+        "labelAr": "حي الليمون",
+        "lat": 33.9851715,
+        "lng": -6.8840156
+      },
+      {
+        "labelFr": "Les Oudayas",
+        "labelAr": "الوداية",
+        "lat": 34.0316833,
+        "lng": -6.8385563
+      },
+      {
+        "labelFr": "Mabella",
+        "labelAr": "مابيلا",
+        "lat": 33.995484,
+        "lng": -6.8220997
+      },
+      {
+        "labelFr": "Massira",
+        "labelAr": "المسيرة",
+        "lat": 33.9699586,
+        "lng": -6.8992893
+      },
+      {
+        "labelFr": "Mechouar",
+        "labelAr": "المشور",
+        "lat": 34.0076708,
+        "lng": -6.8497017
+      },
+      {
+        "labelFr": "Médina de Rabat",
+        "labelAr": "المدينة",
+        "lat": 34.0257476,
+        "lng": -6.8439445
+      },
+      {
+        "labelFr": "Quartier de l'Océan",
+        "labelAr": "حي المحيط",
+        "lat": 34.023718,
+        "lng": -6.8575676
+      },
+      {
+        "labelFr": "Riyad",
+        "labelAr": "الرياض",
+        "lat": 33.9798322,
+        "lng": -6.815649
+      },
+      {
+        "labelFr": "Riyad Extension",
+        "labelAr": "توسعة الرياض",
+        "lat": 33.9849996,
+        "lng": -6.9483602
+      },
+      {
+        "labelFr": "Souissi",
+        "labelAr": "السويسي",
+        "lat": 33.9794379,
+        "lng": -6.915729
+      },
+      {
+        "labelFr": "Taqaddoum",
+        "labelAr": "التقدم",
+        "lat": 33.984846,
+        "lng": -6.8425791
+      },
+      {
+        "labelFr": "Yacoub El Mansour",
+        "labelAr": "يعقوب المنصور",
+        "lat": 33.9834167,
+        "lng": -6.9079074
+      }
     ]
   },
   {
@@ -813,64 +1555,274 @@
     "capital": "admin",
     "regions": [
       { "labelFr": "Toute la ville", "labelAr": "جميع الأحياء" },
-      { "labelFr": "Abattoirs", "labelAr": "حي البطوار" },
-      { "labelFr": "Agadir Oufella", "labelAr": "أكادير أوفلا" },
-      { "labelFr": "Al Wifaq", "labelAr": "الوفاق" },
-      { "labelFr": "Amicales", "labelAr": "أميكال" },
-      { "labelFr": "Amsernate", "labelAr": "أمسرنات" },
-      { "labelFr": "Anahda", "labelAr": "النهضة" },
-      { "labelFr": "Anoual Souss", "labelAr": "أنوال سوس" },
-      { "labelFr": "Anza", "labelAr": "أنزا" },
-      { "labelFr": "Arghoud", "labelAr": "ٱرغود" },
-      { "labelFr": "Assaka", "labelAr": "أساكا" },
+      {
+        "labelFr": "Abattoirs",
+        "labelAr": "حي البطوار",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Agadir Oufella",
+        "labelAr": "أكادير أوفلا",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Al Wifaq",
+        "labelAr": "الوفاق",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Amicales",
+        "labelAr": "أميكال",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Amsernate",
+        "labelAr": "أمسرنات",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      { "labelFr": "Anahda", "labelAr": "النهضة", "lat": 30.4333, "lng": -9.6 },
+      {
+        "labelFr": "Anoual Souss",
+        "labelAr": "أنوال سوس",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      { "labelFr": "Anza", "labelAr": "أنزا", "lat": 30.4333, "lng": -9.6 },
+      { "labelFr": "Arghoud", "labelAr": "ٱرغود", "lat": 30.4333, "lng": -9.6 },
+      { "labelFr": "Assaka", "labelAr": "أساكا", "lat": 30.4333, "lng": -9.6 },
       { "labelFr": "Autre secteur", "labelAr": "حي آخر" },
-      { "labelFr": "Av des Far", "labelAr": "شارع الجيش الملكي" },
-      { "labelFr": "Av Mokawama", "labelAr": "شارع المقاومة" },
-      { "labelFr": "Ben Serguaou", "labelAr": "بن سركاو" },
-      { "labelFr": "Bouargane", "labelAr": "بوركان" },
-      { "labelFr": "Boutchakat", "labelAr": "بوتشكات" },
-      { "labelFr": "Centre Ville", "labelAr": "وسط المدينة" },
-      { "labelFr": "Charaf", "labelAr": "الشرف" },
-      { "labelFr": "Cité Adrar", "labelAr": "حي أدرار" },
-      { "labelFr": "El Houda", "labelAr": "الهدى" },
-      { "labelFr": "Ennahda", "labelAr": "النهضة" },
-      { "labelFr": "Extension Dakhla", "labelAr": "امتداد الداخلة" },
-      { "labelFr": "Founty", "labelAr": "فونتي" },
-      { "labelFr": "Haut Anza", "labelAr": "أنزا العليا" },
-      { "labelFr": "Haut-Founty", "labelAr": "فونتي العالي" },
-      { "labelFr": "Hay Al Farah", "labelAr": "حي الفرح" },
-      { "labelFr": "Hay Al Wafaa", "labelAr": "حي الوفاء" },
-      { "labelFr": "Hay Dakhla", "labelAr": "حي داخلة" },
-      { "labelFr": "Hay Hassani", "labelAr": "الحي الحسني" },
-      { "labelFr": "Hay Houda", "labelAr": "حي هدى" },
-      { "labelFr": "Hay Massira", "labelAr": "حي المسيرة" },
-      { "labelFr": "Hay Mohammadi", "labelAr": "حي المحمدي" },
-      { "labelFr": "Hay Najah", "labelAr": "حي النجاح" },
-      { "labelFr": "Hay Qods", "labelAr": "حي القدس" },
-      { "labelFr": "Hay Salam", "labelAr": "حي السلام" },
-      { "labelFr": "Hay Zaytoun", "labelAr": "حي الزيتون" },
-      { "labelFr": "Ihchach", "labelAr": "إحشاش" },
-      { "labelFr": "Illigh", "labelAr": "إيليغ" },
-      { "labelFr": "Laazib", "labelAr": "العزيب" },
-      { "labelFr": "Le bord de mer", "labelAr": "شاطئ البحر" },
-      { "labelFr": "Le centre-ville", "labelAr": "وسط المدينة" },
-      { "labelFr": "Lekhiam", "labelAr": "الخيام" },
-      { "labelFr": "Les Amicales", "labelAr": "لزاميكال" },
-      { "labelFr": "Marina", "labelAr": "مارينا" },
-      { "labelFr": "Najah", "labelAr": "نجاح" },
-      { "labelFr": "Port", "labelAr": "الميناء" },
-      { "labelFr": "Riad Salam", "labelAr": "رياض السلام" },
-      { "labelFr": "Secteur Touristique", "labelAr": "المنطقة السياحية" },
-      { "labelFr": "Sonaba", "labelAr": "سنابة" },
-      { "labelFr": "Suisse", "labelAr": "سويس" },
-      { "labelFr": "Taddart", "labelAr": "تادرت" },
-      { "labelFr": "Taddart Anza", "labelAr": "تدرت أنزا" },
-      { "labelFr": "Talborjt", "labelAr": "تلبرجت" },
-      { "labelFr": "Tamraght", "labelAr": "تمغارت" },
-      { "labelFr": "Tilila", "labelAr": "تتيلة" },
-      { "labelFr": "Ville Nouvelle", "labelAr": "المدينة الجديدة" },
-      { "labelFr": "Wifaq", "labelAr": "الوفاق" },
-      { "labelFr": "Zone Industrielle Agadir", "labelAr": "الحي الصناعي" }
+      {
+        "labelFr": "Av des Far",
+        "labelAr": "شارع الجيش الملكي",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Av Mokawama",
+        "labelAr": "شارع المقاومة",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Ben Serguaou",
+        "labelAr": "بن سركاو",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Bouargane",
+        "labelAr": "بوركان",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Boutchakat",
+        "labelAr": "بوتشكات",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Centre Ville",
+        "labelAr": "وسط المدينة",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      { "labelFr": "Charaf", "labelAr": "الشرف", "lat": 30.4333, "lng": -9.6 },
+      {
+        "labelFr": "Cité Adrar",
+        "labelAr": "حي أدرار",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "El Houda",
+        "labelAr": "الهدى",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Ennahda",
+        "labelAr": "النهضة",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Extension Dakhla",
+        "labelAr": "امتداد الداخلة",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      { "labelFr": "Founty", "labelAr": "فونتي", "lat": 30.4333, "lng": -9.6 },
+      {
+        "labelFr": "Haut Anza",
+        "labelAr": "أنزا العليا",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Haut-Founty",
+        "labelAr": "فونتي العالي",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Al Farah",
+        "labelAr": "حي الفرح",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Al Wafaa",
+        "labelAr": "حي الوفاء",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Dakhla",
+        "labelAr": "حي داخلة",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Hassani",
+        "labelAr": "الحي الحسني",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Houda",
+        "labelAr": "حي هدى",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Massira",
+        "labelAr": "حي المسيرة",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Mohammadi",
+        "labelAr": "حي المحمدي",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Najah",
+        "labelAr": "حي النجاح",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Qods",
+        "labelAr": "حي القدس",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Salam",
+        "labelAr": "حي السلام",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Hay Zaytoun",
+        "labelAr": "حي الزيتون",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      { "labelFr": "Ihchach", "labelAr": "إحشاش", "lat": 30.4333, "lng": -9.6 },
+      { "labelFr": "Illigh", "labelAr": "إيليغ", "lat": 30.4333, "lng": -9.6 },
+      { "labelFr": "Laazib", "labelAr": "العزيب", "lat": 30.4333, "lng": -9.6 },
+      {
+        "labelFr": "Le bord de mer",
+        "labelAr": "شاطئ البحر",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Le centre-ville",
+        "labelAr": "وسط المدينة",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Lekhiam",
+        "labelAr": "الخيام",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Les Amicales",
+        "labelAr": "لزاميكال",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      { "labelFr": "Marina", "labelAr": "مارينا", "lat": 30.4333, "lng": -9.6 },
+      { "labelFr": "Najah", "labelAr": "نجاح", "lat": 30.4333, "lng": -9.6 },
+      { "labelFr": "Port", "labelAr": "الميناء", "lat": 30.4333, "lng": -9.6 },
+      {
+        "labelFr": "Riad Salam",
+        "labelAr": "رياض السلام",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Secteur Touristique",
+        "labelAr": "المنطقة السياحية",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      { "labelFr": "Sonaba", "labelAr": "سنابة", "lat": 30.4333, "lng": -9.6 },
+      { "labelFr": "Suisse", "labelAr": "سويس", "lat": 30.4333, "lng": -9.6 },
+      { "labelFr": "Taddart", "labelAr": "تادرت", "lat": 30.4333, "lng": -9.6 },
+      {
+        "labelFr": "Taddart Anza",
+        "labelAr": "تدرت أنزا",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Talborjt",
+        "labelAr": "تلبرجت",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Tamraght",
+        "labelAr": "تمغارت",
+        "lat": 30.4333,
+        "lng": -9.6
+      },
+      {
+        "labelFr": "Tilila",
+        "labelAr": "تتيلة",
+        "lat": 30.4277798,
+        "lng": -9.6166558
+      },
+      {
+        "labelFr": "Ville Nouvelle",
+        "labelAr": "المدينة الجديدة",
+        "lat": 30.4217388,
+        "lng": -9.6054316
+      },
+      {
+        "labelFr": "Wifaq",
+        "labelAr": "الوفاق",
+        "lat": 30.394101,
+        "lng": -9.5882218
+      },
+      {
+        "labelFr": "Zone Industrielle Agadir",
+        "labelAr": "الحي الصناعي",
+        "lat": 30.3905525,
+        "lng": -9.5359613
+      }
     ]
   },
   {
@@ -886,120 +1838,667 @@
     "capital": "admin",
     "regions": [
       { "labelFr": "Toute la ville", "labelAr": "جميع الأحياء" },
-      { "labelFr": "Achakar", "labelAr": "اشقار" },
-      { "labelFr": "Achennad", "labelAr": "أشناد" },
-      { "labelFr": "Administratif", "labelAr": "الحي الإداري" },
-      { "labelFr": "Ahammar", "labelAr": "أحمار" },
-      { "labelFr": "Aharrarine", "labelAr": "حرارين" },
-      { "labelFr": "Ahlane", "labelAr": "حي أهلا" },
-      { "labelFr": "Aida", "labelAr": "عايدة" },
-      { "labelFr": "Ain El Hayani", "labelAr": "عين الحياني" },
-      { "labelFr": "Al Amal", "labelAr": "الأمل" },
-      { "labelFr": "Al Anbar", "labelAr": "حي العنبر" },
-      { "labelFr": "Al Kasaba", "labelAr": "القصبة" },
-      { "labelFr": "Al Mandar Al Jamil", "labelAr": "المنظر الجميل" },
-      { "labelFr": "Al Warda", "labelAr": "حي الوردة" },
-      { "labelFr": "Algerie", "labelAr": "الحي الجزائري" },
-      { "labelFr": "Alia", "labelAr": "عليا" },
-      { "labelFr": "Aouama Gharbia", "labelAr": "العوامة الغربية" },
+      {
+        "labelFr": "Achakar",
+        "labelAr": "اشقار",
+        "lat": 35.7593702,
+        "lng": -5.9580341
+      },
+      {
+        "labelFr": "Achennad",
+        "labelAr": "أشناد",
+        "lat": 35.7361318,
+        "lng": -5.8335364
+      },
+      {
+        "labelFr": "Administratif",
+        "labelAr": "الحي الإداري",
+        "lat": 35.7754775,
+        "lng": -5.8787289
+      },
+      {
+        "labelFr": "Ahammar",
+        "labelAr": "أحمار",
+        "lat": 35.7485504,
+        "lng": -5.9005169
+      },
+      {
+        "labelFr": "Aharrarine",
+        "labelAr": "حرارين",
+        "lat": 35.7298874,
+        "lng": -5.8421517
+      },
+      {
+        "labelFr": "Ahlane",
+        "labelAr": "حي أهلا",
+        "lat": 35.7420275,
+        "lng": -5.8441365
+      },
+      {
+        "labelFr": "Aida",
+        "labelAr": "عايدة",
+        "lat": 35.7602748,
+        "lng": -5.8781932
+      },
+      {
+        "labelFr": "Ain El Hayani",
+        "labelAr": "عين الحياني",
+        "lat": 335.7831932,
+        "lng": -5.8325065
+      },
+      {
+        "labelFr": "Al Amal",
+        "labelAr": "الأمل",
+        "lat": 35.7445269,
+        "lng": -5.8416211
+      },
+      {
+        "labelFr": "Al Anbar",
+        "labelAr": "حي العنبر",
+        "lat": 35.7411345,
+        "lng": -5.8076993
+      },
+      {
+        "labelFr": "Al Kasaba",
+        "labelAr": "القصبة",
+        "lat": 35.7559755,
+        "lng": -5.831619
+      },
+      {
+        "labelFr": "Al Mandar Al Jamil",
+        "labelAr": "المنظر الجميل",
+        "lat": 35.7597327,
+        "lng": -5.8052851
+      },
+      {
+        "labelFr": "Al Warda",
+        "labelAr": "حي الوردة",
+        "lat": 35.7597327,
+        "lng": -5.8052851
+      },
+      {
+        "labelFr": "Algerie",
+        "labelAr": "الحي الجزائري",
+        "lat": 35.7453399,
+        "lng": -5.807281
+      },
+      {
+        "labelFr": "Alia",
+        "labelAr": "عليا",
+        "lat": 35.7666544,
+        "lng": -5.8247641
+      },
+      {
+        "labelFr": "Aouama Gharbia",
+        "labelAr": "العوامة الغربية",
+        "lat": 35.7234158,
+        "lng": -5.811875
+      },
       { "labelFr": "Autre secteur", "labelAr": "حي آخر" },
-      { "labelFr": "Aviation", "labelAr": "الطيران" },
-      { "labelFr": "Azib Haj Kaddour", "labelAr": "العزيب" },
-      { "labelFr": "Beausejour", "labelAr": "بوسيجور" },
-      { "labelFr": "Behair", "labelAr": "البحاير" },
-      { "labelFr": "Bel Air - Val fleuri", "labelAr": "بيل إر - فال فلوري" },
-      { "labelFr": "Ben Dibane", "labelAr": "بن ديبان" },
-      { "labelFr": "Beni Makada Lakdima", "labelAr": "بني مكادة القديمة" },
-      { "labelFr": "Beni Said", "labelAr": "بني سعيد" },
-      { "labelFr": "Beni Touzine", "labelAr": "بني توزين" },
-      { "labelFr": "Benkirane", "labelAr": "حي بنكيران" },
-      { "labelFr": "Bir Aharchoune", "labelAr": "بئر أحرشون" },
-      { "labelFr": "Bir Chairi", "labelAr": "بئر الشعيري" },
-      { "labelFr": "Bir Chifa", "labelAr": "بئر الشفاء" },
-      { "labelFr": "Bir El Ghazi", "labelAr": "بئر الغازي" },
-      { "labelFr": "Bouchta-Abdelatif", "labelAr": "حي بوشتة عبد اللطيف" },
-      { "labelFr": "Bouhout 1", "labelAr": "بوحوت 1" },
-      { "labelFr": "Bouhout 2", "labelAr": "بوحوت 2" },
-      { "labelFr": "Branes 1", "labelAr": "البرانص 1" },
-      { "labelFr": "Branes 2", "labelAr": "البرانص 2" },
-      { "labelFr": "Branes Kdima", "labelAr": "البرانص القديمة" },
-      { "labelFr": "Californie", "labelAr": "كليفورنيا" },
-      { "labelFr": "Cap spartel", "labelAr": "كاب سبارتيل" },
-      { "labelFr": "Casabarata", "labelAr": "كسباراطا" },
-      { "labelFr": "Castilla", "labelAr": "كاسطيا" },
-      { "labelFr": "Centre", "labelAr": "وسط المدينة" },
-      { "labelFr": "Centre ville", "labelAr": "وسط المدينة" },
-      { "labelFr": "Charf", "labelAr": "الشرف" },
-      { "labelFr": "Cité californie", "labelAr": "كاليفورنيا" },
-      { "labelFr": "De La Plage", "labelAr": "حـي الشاطئ" },
-      { "labelFr": "Dher Ahjjam", "labelAr": "ظهراحجام" },
-      { "labelFr": "Dher Lahmam", "labelAr": "ظهرالحمام" },
-      { "labelFr": "Draoua", "labelAr": "حومة الدراوة" },
-      { "labelFr": "Drissia", "labelAr": "الدريسية" },
-      { "labelFr": "Du Golf", "labelAr": "حي الغولف" },
-      { "labelFr": "El Baraka", "labelAr": "البركة" },
-      { "labelFr": "El Haj El Mokhtar", "labelAr": "الحاج مختار" },
-      { "labelFr": "El Khair 1", "labelAr": "الخير 1" },
-      { "labelFr": "El Khair 2", "labelAr": "الخير 2" },
-      { "labelFr": "El Majd", "labelAr": "المجد" },
-      { "labelFr": "El Mers 1", "labelAr": "المرس 1" },
-      { "labelFr": "El Mers 2", "labelAr": "المرس 2" },
-      { "labelFr": "El Mrabet", "labelAr": "حي المرابط" },
-      { "labelFr": "El Oued", "labelAr": "حومة الواد" },
-      { "labelFr": "Ennasr", "labelAr": "حي النصر" },
-      { "labelFr": "Girari", "labelAr": "جراري" },
-      { "labelFr": "Gourziana", "labelAr": "غورزيانة" },
-      { "labelFr": "Haddad", "labelAr": "حومة الحداد" },
-      { "labelFr": "Hanaa 1", "labelAr": "الهناء 1" },
-      { "labelFr": "Hanaa 2", "labelAr": "الهناء 2" },
-      { "labelFr": "Hanaa 3 - Soussi", "labelAr": "الهناء 3 - السوسي" },
-      { "labelFr": "Hay Al Bassatine", "labelAr": "البساتين" },
-      { "labelFr": "Hay El Boughaz", "labelAr": "حي البوغاز" },
-      { "labelFr": "Hay Hassani", "labelAr": "حي حسني" },
-      { "labelFr": "Hay Zaoudia", "labelAr": "الزاودية" },
-      { "labelFr": "Iberie", "labelAr": "ايبرية" },
-      { "labelFr": "Ibn Taymia", "labelAr": "إبن تايمية" },
-      { "labelFr": "Jbel Kbir", "labelAr": "الجبل الكبير" },
-      { "labelFr": "Jirrari", "labelAr": "الجيراري" },
-      { "labelFr": "Laaouina", "labelAr": "العوينة" },
-      { "labelFr": "Lalla Chafia", "labelAr": "لالة شافية" },
-      { "labelFr": "Les Rosiers", "labelAr": "الورود" },
-      { "labelFr": "M'nar", "labelAr": "المنار" },
-      { "labelFr": "M'sallah", "labelAr": "المصلى" },
-      { "labelFr": "Makhoukha", "labelAr": "مخوخة" },
-      { "labelFr": "Malabata", "labelAr": "ملاباطة" },
-      { "labelFr": "manar", "labelAr": "منار" },
-      { "labelFr": "Marchan", "labelAr": "مرشان" },
-      { "labelFr": "Marchane", "labelAr": "مرشان" },
-      { "labelFr": "Marjane", "labelAr": "مرجان" },
-      { "labelFr": "Médina", "labelAr": "المدينة القديمة" },
-      { "labelFr": "Mediouna", "labelAr": "مديونة" },
-      { "labelFr": "Mesnana", "labelAr": "مسنانة" },
-      { "labelFr": "Mghayer", "labelAr": "مغاير" },
-      { "labelFr": "Mghogha", "labelAr": "مغوغة" },
-      { "labelFr": "Mister Khouch", "labelAr": "ميستر خوش" },
-      { "labelFr": "Moujahidine", "labelAr": "مجاهدين" },
-      { "labelFr": "Moulay Youssef", "labelAr": "مولاي يوسف" },
-      { "labelFr": "Mozart", "labelAr": "موزار" },
-      { "labelFr": "Msala", "labelAr": "المصلى" },
-      { "labelFr": "Nzaha", "labelAr": "نزاهة" },
-      { "labelFr": "Port Tanger ville", "labelAr": "ميناء طنجة المدينة" },
-      { "labelFr": "Rmilat", "labelAr": "رميلات" },
-      { "labelFr": "Sania", "labelAr": "السانية" },
-      { "labelFr": "Santa", "labelAr": "سانتا" },
-      { "labelFr": "Souani", "labelAr": "السواني" },
-      { "labelFr": "Star Hill", "labelAr": "ستار هيل" },
-      { "labelFr": "Tanger City Center", "labelAr": "طنجة سيتي سنتر" },
-      { "labelFr": "Tanja Balia", "labelAr": "طنجة البالية" },
-      { "labelFr": "Val Fleuri", "labelAr": "فال فلوري" },
-      { "labelFr": "Vieille montagne", "labelAr": "الجبل القديم" },
-      { "labelFr": "Zemmouri", "labelAr": "الزموري" },
-      { "labelFr": "Ziatene", "labelAr": "زياتين" },
+      {
+        "labelFr": "Aviation",
+        "labelAr": "الطيران",
+        "lat": 35.7767,
+        "lng": -5.8039
+      },
+      {
+        "labelFr": "Azib Haj Kaddour",
+        "labelAr": "العزيب",
+        "lat": 35.743717,
+        "lng": -5.8533032
+      },
+      {
+        "labelFr": "Beausejour",
+        "labelAr": "بوسيجور",
+        "lat": 35.7497993,
+        "lng": -5.8336491
+      },
+      {
+        "labelFr": "Behair",
+        "labelAr": "البحاير",
+        "lat": 35.7353142,
+        "lng": -5.8184923
+      },
+      {
+        "labelFr": "Bel Air - Val fleuri",
+        "labelAr": "بيل إر - فال فلوري",
+        "lat": 35.7711514,
+        "lng": -5.8359104
+      },
+      {
+        "labelFr": "Ben Dibane",
+        "labelAr": "بن ديبان",
+        "lat": 35.754322,
+        "lng": -5.8350707
+      },
+      {
+        "labelFr": "Beni Makada Lakdima",
+        "labelAr": "بني مكادة القديمة",
+        "lat": 35.7445179,
+        "lng": -5.8153296
+      },
+      {
+        "labelFr": "Beni Said",
+        "labelAr": "بني سعيد",
+        "lat": 35.7309149,
+        "lng": -5.8422376
+      },
+      {
+        "labelFr": "Beni Touzine",
+        "labelAr": "بني توزين",
+        "lat": 35.7386053,
+        "lng": -5.879553
+      },
+      {
+        "labelFr": "Benkirane",
+        "labelAr": "حي بنكيران",
+        "lat": 35.76153,
+        "lng": -5.8067308
+      },
+      {
+        "labelFr": "Bir Aharchoune",
+        "labelAr": "بئر أحرشون",
+        "lat": 35.7407542,
+        "lng": -5.8134192
+      },
+      {
+        "labelFr": "Bir Chairi",
+        "labelAr": "بئر الشعيري",
+        "lat": 35.7555414,
+        "lng": -5.815339
+      },
+      {
+        "labelFr": "Bir Chifa",
+        "labelAr": "بئر الشفاء",
+        "lat": 35.7555788,
+        "lng": -5.8333637
+      },
+      {
+        "labelFr": "Bir El Ghazi",
+        "labelAr": "بئر الغازي",
+        "lat": 35.7152095,
+        "lng": -5.8296638
+      },
+      {
+        "labelFr": "Bouchta-Abdelatif",
+        "labelAr": "حي بوشتة عبد اللطيف",
+        "lat": 35.7669239,
+        "lng": -5.8531394
+      },
+      {
+        "labelFr": "Bouhout 1",
+        "labelAr": "بوحوت 1",
+        "lat": 35.752869,
+        "lng": -5.8017462
+      },
+      {
+        "labelFr": "Bouhout 2",
+        "labelAr": "بوحوت 2",
+        "lat": 35.752869,
+        "lng": -5.8017462
+      },
+      {
+        "labelFr": "Branes 1",
+        "labelAr": "البرانص 1",
+        "lat": 35.7678695,
+        "lng": -5.8253768
+      },
+      {
+        "labelFr": "Branes 2",
+        "labelAr": "البرانص 2",
+        "lat": 35.7587266,
+        "lng": -5.8418241
+      },
+      {
+        "labelFr": "Branes Kdima",
+        "labelAr": "البرانص القديمة",
+        "lat": 35.7464236,
+        "lng": -5.885797
+      },
+      {
+        "labelFr": "Californie",
+        "labelAr": "كليفورنيا",
+        "lat": 35.781918,
+        "lng": -5.8428447
+      },
+      {
+        "labelFr": "Cap spartel",
+        "labelAr": "كاب سبارتيل",
+        "lat": 35.7877521,
+        "lng": -5.9871267
+      },
+      {
+        "labelFr": "Casabarata",
+        "labelAr": "كسباراطا",
+        "lat": 35.7636729,
+        "lng": -5.8287621
+      },
+      {
+        "labelFr": "Castilla",
+        "labelAr": "كاسطيا",
+        "lat": 35.7696528,
+        "lng": -5.8204975
+      },
+      {
+        "labelFr": "Centre",
+        "labelAr": "وسط المدينة",
+        "lat": 35.7727858,
+        "lng": -5.816884
+      },
+      {
+        "labelFr": "Centre ville",
+        "labelAr": "وسط المدينة",
+        "lat": 35.7633854,
+        "lng": -5.9168722
+      },
+      {
+        "labelFr": "Charf",
+        "labelAr": "الشرف",
+        "lat": 35.7676544,
+        "lng": -5.8085278
+      },
+      {
+        "labelFr": "Cité californie",
+        "labelAr": "كاليفورنيا",
+        "lat": 35.767734,
+        "lng": -5.839428
+      },
+      {
+        "labelFr": "De La Plage",
+        "labelAr": "حـي الشاطئ",
+        "lat": 35.7829219,
+        "lng": -5.8128091
+      },
+      {
+        "labelFr": "Dher Ahjjam",
+        "labelAr": "ظهراحجام",
+        "lat": 35.7364855,
+        "lng": -5.8278816
+      },
+      {
+        "labelFr": "Dher Lahmam",
+        "labelAr": "ظهرالحمام",
+        "lat": 35.7829889,
+        "lng": -5.8514342
+      },
+      {
+        "labelFr": "Draoua",
+        "labelAr": "حومة الدراوة",
+        "lat": 35.7593519,
+        "lng": -5.8200508
+      },
+      {
+        "labelFr": "Drissia",
+        "labelAr": "الدريسية",
+        "lat": 35.7608599,
+        "lng": -5.8119501
+      },
+      {
+        "labelFr": "Du Golf",
+        "labelAr": "حي الغولف",
+        "lat": 35.7738875,
+        "lng": -5.9222384
+      },
+      {
+        "labelFr": "El Baraka",
+        "labelAr": "البركة",
+        "lat": 35.7344172,
+        "lng": -5.882232
+      },
+      {
+        "labelFr": "El Haj El Mokhtar",
+        "labelAr": "الحاج مختار",
+        "lat": 35.7485148,
+        "lng": -5.8293361
+      },
+      {
+        "labelFr": "El Khair 1",
+        "labelAr": "الخير 1",
+        "lat": 35.7430144,
+        "lng": -5.8173444
+      },
+      {
+        "labelFr": "El Khair 2",
+        "labelAr": "الخير 2",
+        "lat": 35.7460157,
+        "lng": -5.8287406
+      },
+      {
+        "labelFr": "El Majd",
+        "labelAr": "المجد",
+        "lat": 35.7417745,
+        "lng": -5.8075834
+      },
+      {
+        "labelFr": "El Mers 1",
+        "labelAr": "المرس 1",
+        "lat": 35.7341767,
+        "lng": -5.8239717
+      },
+      {
+        "labelFr": "El Mers 2",
+        "labelAr": "المرس 2",
+        "lat": 35.7375024,
+        "lng": -5.8290358
+      },
+      {
+        "labelFr": "El Mrabet",
+        "labelAr": "حي المرابط",
+        "lat": 35.7232376,
+        "lng": -5.8160807
+      },
+      {
+        "labelFr": "El Oued",
+        "labelAr": "حومة الواد",
+        "lat": 35.7287775,
+        "lng": -6.3024192
+      },
+      {
+        "labelFr": "Ennasr",
+        "labelAr": "حي النصر",
+        "lat": 35.7526854,
+        "lng": -5.8400704
+      },
+      {
+        "labelFr": "Girari",
+        "labelAr": "جراري",
+        "lat": 35.7507482,
+        "lng": -5.8166144
+      },
+      {
+        "labelFr": "Gourziana",
+        "labelAr": "غورزيانة",
+        "lat": 35.7427763,
+        "lng": -5.8240199
+      },
+      {
+        "labelFr": "Haddad",
+        "labelAr": "حومة الحداد",
+        "lat": 35.7571375,
+        "lng": -5.8461195
+      },
+      {
+        "labelFr": "Hanaa 1",
+        "labelAr": "الهناء 1",
+        "lat": 35.7312964,
+        "lng": -5.805789
+      },
+      {
+        "labelFr": "Hanaa 2",
+        "labelAr": "الهناء 2",
+        "lat": 35.7272835,
+        "lng": -5.808785
+      },
+      {
+        "labelFr": "Hanaa 3 - Soussi",
+        "labelAr": "الهناء 3 - السوسي",
+        "lat": 35.7885368,
+        "lng": -5.8247856
+      },
+      {
+        "labelFr": "Hay Al Bassatine",
+        "labelAr": "البساتين",
+        "lat": 35.7695926,
+        "lng": -5.8390457
+      },
+      {
+        "labelFr": "Hay El Boughaz",
+        "labelAr": "حي البوغاز",
+        "lat": 35.7600411,
+        "lng": -5.8213608
+      },
+      {
+        "labelFr": "Hay Hassani",
+        "labelAr": "حي حسني",
+        "lat": 35.73956,
+        "lng": -5.8616416
+      },
+      {
+        "labelFr": "Hay Zaoudia",
+        "labelAr": "الزاودية",
+        "lat": 35.7567645,
+        "lng": -5.8261041
+      },
+      {
+        "labelFr": "Iberie",
+        "labelAr": "ايبرية",
+        "lat": 35.7808333,
+        "lng": -5.8231171
+      },
+      {
+        "labelFr": "Ibn Taymia",
+        "labelAr": "إبن تايمية",
+        "lat": 35.7527521,
+        "lng": -5.8861726
+      },
+      {
+        "labelFr": "Jbel Kbir",
+        "labelAr": "الجبل الكبير",
+        "lat": 35.786977,
+        "lng": -5.9028219
+      },
+      {
+        "labelFr": "Jirrari",
+        "labelAr": "الجيراري",
+        "lat": 35.7507557,
+        "lng": -5.8299185
+      },
+      {
+        "labelFr": "Laaouina",
+        "labelAr": "العوينة",
+        "lat": 35.7569428,
+        "lng": -5.8447171
+      },
+      {
+        "labelFr": "Lalla Chafia",
+        "labelAr": "لالة شافية",
+        "lat": 35.7732112,
+        "lng": -5.8234052
+      },
+      {
+        "labelFr": "Les Rosiers",
+        "labelAr": "الورود",
+        "lat": 35.7248011,
+        "lng": -5.8171535
+      },
+      {
+        "labelFr": "M'nar",
+        "labelAr": "المنار",
+        "lat": 35.8087273,
+        "lng": -5.7440656
+      },
+      {
+        "labelFr": "M'sallah",
+        "labelAr": "المصلى",
+        "lat": 35.7772615,
+        "lng": -5.8258867
+      },
+      {
+        "labelFr": "Makhoukha",
+        "labelAr": "مخوخة",
+        "lat": 35.7268337,
+        "lng": -5.8508009
+      },
+      {
+        "labelFr": "Malabata",
+        "labelAr": "ملاباطة",
+        "lat": 35.7815061,
+        "lng": -5.785854
+      },
+      {
+        "labelFr": "manar",
+        "labelAr": "منار",
+        "lat": 35.746032,
+        "lng": -5.8694525
+      },
+      {
+        "labelFr": "Marchan",
+        "labelAr": "مرشان",
+        "lat": 35.7874193,
+        "lng": -5.8236827
+      },
+      {
+        "labelFr": "Marchane",
+        "labelAr": "مرشان",
+        "lat": 35.7874193,
+        "lng": -5.8236827
+      },
+      {
+        "labelFr": "Marjane",
+        "labelAr": "مرجان",
+        "lat": 35.7702695,
+        "lng": -5.9955307
+      },
+      {
+        "labelFr": "Médina",
+        "labelAr": "المدينة القديمة",
+        "lat": 35.7701497,
+        "lng": -5.9182781
+      },
+      {
+        "labelFr": "Mediouna",
+        "labelAr": "مديونة",
+        "lat": 35.7701497,
+        "lng": -5.9182781
+      },
+      {
+        "labelFr": "Mesnana",
+        "labelAr": "مسنانة",
+        "lat": 35.7571498,
+        "lng": -5.8817896
+      },
+      {
+        "labelFr": "Mghayer",
+        "labelAr": "مغاير",
+        "lat": 35.7507177,
+        "lng": -5.895431
+      },
+      {
+        "labelFr": "Mghogha",
+        "labelAr": "مغوغة",
+        "lat": 35.7497158,
+        "lng": -5.7899399
+      },
+      {
+        "labelFr": "Mister Khouch",
+        "labelAr": "ميستر خوش",
+        "lat": 35.7740654,
+        "lng": -5.8513286
+      },
+      {
+        "labelFr": "Moujahidine",
+        "labelAr": "مجاهدين",
+        "lat": 35.770714,
+        "lng": -5.8307097
+      },
+      {
+        "labelFr": "Moulay Youssef",
+        "labelAr": "مولاي يوسف",
+        "lat": 35.7706766,
+        "lng": -5.8126849
+      },
+      {
+        "labelFr": "Mozart",
+        "labelAr": "موزار",
+        "lat": 35.7725512,
+        "lng": -5.8002677
+      },
+      {
+        "labelFr": "Msala",
+        "labelAr": "المصلى",
+        "lat": 35.7772617,
+        "lng": -5.8218097
+      },
+      {
+        "labelFr": "Nzaha",
+        "labelAr": "نزاهة",
+        "lat": 35.7691835,
+        "lng": -5.8033884
+      },
+      {
+        "labelFr": "Port Tanger ville",
+        "labelAr": "ميناء طنجة المدينة",
+        "lat": 35.7897178,
+        "lng": -5.8045745
+      },
+      {
+        "labelFr": "Rmilat",
+        "labelAr": "رميلات",
+        "lat": 35.7881635,
+        "lng": -5.8671804
+      },
+      {
+        "labelFr": "Sania",
+        "labelAr": "السانية",
+        "lat": 35.749848,
+        "lng": -5.900865
+      },
+      {
+        "labelFr": "Santa",
+        "labelAr": "سانتا",
+        "lat": 35.76714,
+        "lng": -5.8359151
+      },
+      {
+        "labelFr": "Souani",
+        "labelAr": "السواني",
+        "lat": 35.772431,
+        "lng": -5.8265245
+      },
+      {
+        "labelFr": "Star Hill",
+        "labelAr": "ستار هيل",
+        "lat": 35.7739277,
+        "lng": -5.9102691
+      },
+      {
+        "labelFr": "Tanger City Center",
+        "labelAr": "طنجة سيتي سنتر",
+        "lat": 35.7734749,
+        "lng": -5.7895989
+      },
+      {
+        "labelFr": "Tanja Balia",
+        "labelAr": "طنجة البالية",
+        "lat": 35.7663224,
+        "lng": -5.8034545
+      },
+      {
+        "labelFr": "Val Fleuri",
+        "labelAr": "فال فلوري",
+        "lat": 35.7679027,
+        "lng": -5.8349628
+      },
+      {
+        "labelFr": "Vieille montagne",
+        "labelAr": "الجبل القديم",
+        "lat": 35.7859995,
+        "lng": -5.8317042
+      },
+      {
+        "labelFr": "Zemmouri",
+        "labelAr": "الزموري",
+        "lat": 35.7344369,
+        "lng": -5.8741649
+      },
+      {
+        "labelFr": "Ziatene",
+        "labelAr": "زياتين",
+        "lat": 35.7420184,
+        "lng": -5.8864618
+      },
       {
         "labelFr": "Zone Industrielle Mghogha",
-        "labelAr": "المنطقة الصناعية مغوغة"
+        "labelAr": "المنطقة الصناعية مغوغة",
+        "lat": 35.7406504,
+        "lng": -5.753003
       },
-      { "labelFr": "Zouitina", "labelAr": "حي الزويتينة" }
+      {
+        "labelFr": "Zouitina",
+        "labelAr": "حي الزويتينة",
+        "lat": 35.7343728,
+        "lng": -5.8150828
+      }
     ]
   },
   {
