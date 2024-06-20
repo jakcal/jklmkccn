@@ -4546,7 +4546,7 @@
   { "name": "Ait Benhaddou", "lat": 31.0467149, "lng": -7.1667356 },
   { "name": "Iftar", "lat": 33.8099638, "lng": -7.1589632 },
   { "name": "Tiflet", "lat": 33.8921616, "lng": -6.471491 },
-  { "name": "-------", "lat": 33.2333, "lng": -8.5 },
+  { "name": "-------" },
   { "name": "Ait Daoud", "lat": 33.082454, "lng": -9.343699 },
   { "name": "Ait Ourir", "lat": 31.5614552, "lng": -7.8152411 },
   { "name": "Al Hoceima", "lat": 35.2399574, "lng": -3.978833 },
